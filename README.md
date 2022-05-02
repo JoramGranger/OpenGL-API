@@ -14,7 +14,8 @@ link[https://bit.ly/3y8b0mB]
 
 3. transfer files
 
-    FILE	 |    LOCATION
+FILE	 |    LOCATION
+    
 A) "glut32.dll"   to , "C:\Windows\System\", "C:\Windows\System32"
 
 B) "glut.h" 	  to "C:\Program Files (x86)\CodeBlocks\MinGW\include\GL"
